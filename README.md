@@ -27,7 +27,7 @@ Hay muchas características qué podemos usar para entrenar un modelo. En lo ref
 Sería conveniente también tener más información más allá de las características obtenidas de MFCC, pero las redes llamadas *WaveNet* pueden ser muy difíciles de entrenar y también de ejecutar. Por ello vamos a usar espectrogramas. En investigación de audios, un espectrograma se considera como una representación gráfica de un audio que tiene la frecuencia en el eje de ordenadas y el tiempo en eje de coordenadas y una tercera dimensión - con colores - que representa la intensidad del sonido para cada tiempo y cada frecuencia. Aquí tenemos un ejemplo de un espectrograma.
 
 <p align="center">
-<img src="melspectrograms/train/sick/audioset__1keOOsT738_30_35.png" width="600">
+<img src="static/img/audioset_1EiNSiO0UvU_5_10.png" width="600">
 </p>
 
 Lo mejor del uso de los espectrogramas es que nos permite cambiar **de un problema de reconocimiento de audio a un problema de reconocimiento de imágenes**.
